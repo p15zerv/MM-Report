@@ -3,6 +3,9 @@
 [Αποθετήριο κώδικα παραδοτέου](https://github.com/p15zerv/pacman/tree/Deliverable1)
 
 ## Αλλαγές και προσθήκες στο tileset
+
+![red-tiles](https://user-images.githubusercontent.com/22644005/35176914-a6cdbf10-fd84-11e7-8fe9-53194520ae8a.png)
+
 * Αλλαγή χρωμάτων
 * Προσθήκη νέων tile:
   - <img src="https://user-images.githubusercontent.com/22644005/35171551-db522388-fd6c-11e7-9805-eaa03d4d1428.PNG" alt="" width="30" height="30"> Αναπαριστά τα σημεία τοποθέτησης των λουλουδιών.
