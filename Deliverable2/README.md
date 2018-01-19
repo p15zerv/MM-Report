@@ -2,22 +2,23 @@
 
 [Αποθετήριο κώδικα παραδοτέου](https://github.com/p15zerv/pacman/tree/Deliverable1)
 
-## Δημιουργία νέας πίστας μέσω Tiled
-
-<img src="https://user-images.githubusercontent.com/22644005/35171451-818afc30-fd6c-11e7-9bdd-d062edde833a.PNG" alt="" width="225" height="250">
-
-* Αλλαγή χρωμάτων του αρχικού tileset
-* Προσθήκη νέων tile στο αρχικό tileset:
+## Αλλαγές και προσθήκες στο tileset
+* Αλλαγή χρωμάτων
+* Προσθήκη νέων tile:
   - <img src="https://user-images.githubusercontent.com/22644005/35171551-db522388-fd6c-11e7-9805-eaa03d4d1428.PNG" alt="" width="30" height="30"> Αναπαριστά τα σημεία τοποθέτησης των λουλουδιών.
   - <img src="https://user-images.githubusercontent.com/22644005/35171950-39d5314c-fd6e-11e7-9780-05abd146a363.PNG" alt="" width="30" height="30"> Αναπαριστά τα σημεία τοποθέτησης των φρούτων (παραδοτέο 3).
   - <img src="https://user-images.githubusercontent.com/22644005/35172033-c1c9a61e-fd6e-11e7-86c0-59aa561c6d3c.png" alt="" width="30" height="30"> Αναπαριστά το σημείο τοποθέτησης του παίκτη.
   - <img src="https://user-images.githubusercontent.com/22644005/35172128-15ba0ade-fd6f-11e7-9016-e9d96758941e.PNG" alt="" width="30" height="30"> Αναπαριστά τα σημεία τοποθέτησης των εχθρών (παραδοτέο 3).
-  - <img src="https://user-images.githubusercontent.com/22644005/35172814-d66533ba-fd71-11e7-886f-f78ada186360.PNG" alt="" width="30" height="30"> Αναπαριστά το σημείο τοποθέτησης της πέτρας (παραδοτέο 4).
+  - <img src="https://user-images.githubusercontent.com/22644005/35172814-d66533ba-fd71-11e7-886f-f78ada186360.PNG" alt="" width="30" height="30"> Αναπαριστά το σημείο τοποθέτησης της πέτρας (παραδοτέο 3).
   - <img src="https://user-images.githubusercontent.com/22644005/35172815-d7d64298-fd71-11e7-8ae6-8df2c05ae1ac.PNG" alt="" width="30" height="30"> Αναπαριστά το σημείο τοποθέτησης του καλαθιού.
   
-  Όλα εκτός του πρώτου tile προστέθηκαν για το 4ο παραδοτέο, αλλά τοποθετήθηκαν εδώ για να βρίσκονται σε ένα σημείο όλες οι αλλαγές στο αρχικό tileset. Πληροφορίες για τα αντικείμενα που δεν αναφέρονται σε αυτό το παραδοτέο μπορούν να βρεθούν σε αυτό που αναφέρεται στις παρενθέσεις.
+    Όλα εκτός του πρώτου tile προστέθηκαν για το 4ο παραδοτέο, αλλά τοποθετήθηκαν εδώ για να βρίσκονται σε ένα σημείο όλες οι αλλαγές στο αρχικό tileset. Πληροφορίες για τα αντικείμενα που δεν αναφέρονται σε αυτό το παραδοτέο μπορούν να βρεθούν σε αυτό που αναφέρεται στις παρενθέσεις.
   
   Όλα τα παραπάνω tiles αντικαθίστανται με το αντίστοιχο αντικείμενο μόλις εντοπιστούν.
+  
+## Δημιουργία νέας πίστας μέσω Tiled
+
+<img src="https://user-images.githubusercontent.com/22644005/35171451-818afc30-fd6c-11e7-9bdd-d062edde833a.PNG" alt="" width="225" height="250">
 
 ## Αλλαγή εμφάνισης του παίκτη
 
