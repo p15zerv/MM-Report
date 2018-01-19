@@ -43,16 +43,22 @@
 
 Menu
 
-![Menu](https://thumbs.gfycat.com/JovialJadedAgouti-size_restricted.gif)
+![Menu](https://thumbs.gfycat.com/JovialJadedAgouti.webp)
 
 Gameplay
 
-![Gameplay](https://thumbs.gfycat.com/FearfulMeatyBluefintuna-size_restricted.gif)
+![Gameplay](https://thumbs.gfycat.com/FearfulMeatyBluefintuna.webp)
 
 Gameplay με ενεργοποιημένο το νυχτερινό mode
 
-![Night_Gameplay](https://giant.gfycat.com/VastGratefulCockerspaniel.webm)
+![Night_Gameplay](https://thumbs.gfycat.com/VastGratefulCockerspaniel.webp)
 
 ## Συμπεράσματα
 
+Η εργασία αυτή μας έδωσε την ευκαιρία να αναπτύξουμε το δικό μας βιντεοπαιχνίδι σε γλώσσα προγραμματισμού. Ήταν μία πολύ ενδιαφέρουσα διαδικασία και μία ευκαιρία επίσης να μάθουμε Javascript. Μιας και ήταν η πρώτη φορά που έκανα κάτι από τα δύο, είμαι σίγουρος πως ο κώδικας δεν είναι και ο καλύτερος αλλά ήταν ένα καλό πρώτο βήμα. Ακόμα, μας έδωσε τη δυνατότητα να χρησιμοποιήσουμε και να οικειωθούμε με διάφορα εργαλεία όπως το GIMP και το Tiled.
+
+Συνολικά, θεωρώ πως ήταν μία σπουδαία εκπαιδευτική εμπειρία!
+
 ## Σύνοψη
+
+Η ανάπτυξη του παιχνιδιού ολοκληρώθηκε με επιτυχία με την ολοκλήρωση όλων των παραδοτέων αλλά και προσθήκη δικών μου λειτουργιών.
