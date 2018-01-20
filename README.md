@@ -38,7 +38,7 @@
 * Περιβάλλον ανάπτυξης (IDE): [Visual Studio Code](https://code.visualstudio.com/)
 * Εκτέλεση και testing: [Firefox Quantum: Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
 * Σχεδιασμός επιπέδων: [Tiled](http://www.mapeditor.org/)
-* Επεξεργασία και προσθήκη εικόνων: [GIMP](https://www.gimp.org/)
+* Επεξεργασία και σχεδιασμός εικόνων: [GIMP](https://www.gimp.org/)
 
 ## Ενδεικτικές Εικόνες
 
