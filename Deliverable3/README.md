@@ -6,6 +6,8 @@
 
 ![wolf](https://user-images.githubusercontent.com/22644005/35176663-48dd5632-fd83-11e7-9e54-163dc0c6fa4f.png)
 
+[Πηγή](https://reedflower101.deviantart.com/art/Wolf-sprite-mod-153847281)
+
 Οι εχθροί κινούνται τυχαία στην πίστα και μπορούν να φάνε τον πρωταγωνιστή.
 
 Συγκεκριμένα:
@@ -25,6 +27,8 @@
 ### Φρούτο
 
 ![fruit](https://user-images.githubusercontent.com/22644005/33736855-de5dbd40-db9c-11e7-8a89-79aa3bddcb43.png)
+
+[Πηγή](http://simonowen.com/sam/pacman/images/pacsprites.png)
 
 Νέο συλλεκτικό αντικείμενο. Όταν ο παίκτης συλλέγει ένα φρούτο, του δίνεται η δυνατότητα να φάει τους εχθρούς ακουμπώντας τους, για 7.5 δευτερόλεπτα μετά τη συλλογή του.
 
