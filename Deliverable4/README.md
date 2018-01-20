@@ -14,4 +14,4 @@
 
 ## Τελική αναφορά εργασίας
 
-[Τη διαβάζετε..](https://github.com/p15zerv/MM-Report)&nbsp; &nbsp; &nbsp; &nbsp;[.](https://media.giphy.com/media/6uGhT1O4sxpi8/giphy.gif)
+[Τη διαβάζετε..](https://github.com/p15zerv/MM-Report)&nbsp; &nbsp; &nbsp; &nbsp;[.](https://media3.giphy.com/media/jcxtvm2bsZDH2/giphy.gif)
