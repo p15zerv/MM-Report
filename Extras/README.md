@@ -10,6 +10,8 @@
 
 ![blood](https://user-images.githubusercontent.com/22644005/35177776-299b1054-fd8b-11e7-90e0-694eb602b0b3.png)
 
+[Πηγή](https://opengameart.org/content/blood-effect-sprite-sheet)
+
 Προστέθηκε animation που αναπαράγεται όταν ο παίκτης ή κάποιος εχθρός πεθάνει.
 
 ## Προσθήκη νυχτερινού mode
