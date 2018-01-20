@@ -32,6 +32,6 @@
 
 ## Προσθήκη αρχικού Μenu
 
-<img src="https://user-images.githubusercontent.com/22644005/33735077-f853362c-db96-11e7-8a27-d164b4546ebe.png" alt="" width="225" height="250">
+<img src="https://user-images.githubusercontent.com/22644005/35177178-392924e8-fd86-11e7-98d3-e0537a75e8d7.png" alt="" width="225" height="250">
 
 Το αρχικό menu επιτρέπει στον παίκτη να επιλέξει πίστα. Στο background είναι ένα preview της επιλεγμένης πίστας. Ακόμα δίνει τη δυνατότητα ενεργοποίησης του νυχτερινού mode (παραδοτέο 4).
